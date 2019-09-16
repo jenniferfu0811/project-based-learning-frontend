@@ -12,7 +12,7 @@ Thank you.
 ### Javascript
 | What you build| Source | Price |
 |--|--|--|
-| Calulator | https://zellwk.com/blog/calculator-part-1/ <br>https://zellwk.com/blog/calculator-part-1/<br> https://zellwk.com/blog/calculator-part-1/ ||
+| Calculator | https://zellwk.com/blog/calculator-part-1/ <br>https://zellwk.com/blog/calculator-part-2/<br> https://zellwk.com/blog/calculator-part-3/ ||
 | Simple URL shortener with HTML and JvaScript | https://www.freecodecamp.org/news/building-a-simple-url-shortener-with-just-html-and-javascript-6ea1ecda308c/ ||
 | 30 Things in 30 Days | https://javascript30.com/ ||
 | Todo List App with JavaScript |https://freshman.tech/todo-list/  ||
