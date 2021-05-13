@@ -1,9 +1,9 @@
 # Project Based Learning - Frontend
 
-Frontend development is challenging to learn. What helped me a lot was not only to learn theory, but to program something every day. If you are a beginner or already working as a frontend developer or designer you can benefit from this list. 
+Frontend development is challenging to learn. What helped me a lot was not only to learn theory, but to program something every day. If you are a beginner or already working as a frontend developer or designer you can benefit from this list.
 
 ### Support this Project
-If this list helps you, I'd be happy if you'd support me. You can buy stickers or support me directly via buy me a coffee. This enables me to extend this list, keep this list up to date and to do many more such projects. 
+If this list helps you, I'd be happy if you'd support me. You can buy stickers or support me directly via buy me a coffee. This enables me to extend this list, keep this list up to date and to do many more such projects.
 
 You can do this via [Buy me a Coffee](https://www.buymeacoffee.com/binconsole)
 
@@ -20,6 +20,8 @@ Thank you.
 | Instant Search With Vanilla Javascript | https://www.florin-pop.com/blog/2019/06/vanilla-javascript-instant-search/ ||
 | Simple Chrome Extension in Vanilla JavaScript | https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-how-to-build-a-simple-chrome-extension-in-vanilla-javascript-e52b2994aeeb ||
 | Memory Game in Vanilla JavaScript | https://medium.com/free-code-camp/vanilla-javascript-tutorial-build-a-memory-game-in-30-minutes-e542c4447eae ||
+| Weather Forecast Website with JavaScript| https://www.codementor.io/projects/web/weather-forecast-website-atx32lz7zb ||
+| Slack bot: PageSpeed Insights report | https://www.codementor.io/projects/tool/slack-bot-pagespeed-insights-report-atx32l925h ||
 
 ### Javascript Games
   | What you build| Source | Price |
@@ -38,6 +40,7 @@ Thank you.
   | What you build| Source | Price |
 |--|--|--|
 | JavaScript Animations with Anime.js |https://medium.com/@ajmeyghani/creating-javascript-animations-with-anime-js-f2b14716cdc6 |$5/m|
+| Globe with Rotating Animation and Country Label | https://www.codementor.io/projects/web/globe-with-rotating-animation-and-country-label-atx32g8qhm ||
 
 ## HTML/CSS/JS
 
@@ -79,14 +82,15 @@ Thank you.
 | Tab Bar Navigation |https://www.florin-pop.com/blog/2019/03/tab-bar-navigation/ ||
 | Animated book store with JavaScript, jQuery, and CSS |https://www.freecodecamp.org/news/how-i-designed-an-animated-book-store-with-javascript-jquery-and-css-9e7102ca7689/ ||
 
+
  ### CSS Animations
   | What you build| Source | Price |
 |--|--|--|
 | Animated loader with nothing but CSS |https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c ||
 | Animated dashed line background with SVG and CSS |https://blog.fullstackdigital.com/creating-an-animated-dashed-line-background-with-svg-and-css-170f89f47000 ||
-  
-  
-  
+
+
+
 
 ### Angular
   | What you build| Source | Price |
@@ -96,8 +100,9 @@ Thank you.
 |  Simple Progressive Web App (PWA) with Angular and Lighthouse — Hacker News Clone|https://medium.com/crowdbotics/learn-to-build-a-simple-progressive-web-app-pwa-with-angular-and-lighthouse-hacker-news-clone-51aca763032f ||
 |  Toggle Component|https://blog.angularindepth.com/build-a-toggle-component-6e8f44889c2c ||
 | localization in Angular using i18n tools|https://www.freecodecamp.org/news/how-to-implement-localization-in-angular-using-i18n-tools-a88898b1a0d0/ ||
-  
-  
+| Link shortener website using Angular, JavaScript, Vue, and React | https://www.codementor.io/projects/web/link-shortener-website-brqjanf6zq ||
+
+
 
 ### Vue
   | What you build| Source | Price |
@@ -120,7 +125,8 @@ Thank you.
 | Highly Customizable Tab Component with Vue.js Slots |https://blog.bitsrc.io/highly-customizable-tab-component-with-vue-js-slots-7e1cee400a7c ||
 | Routing in Vue.js With Examples |https://medium.com/@saidhayani/understand-routing-in-vue-js-with-examples-6da96979c8e3 ||
 | Cryptocurrency Tracker with Vue.js |https://medium.com/eliteng/build-a-cryptocurrency-tracker-with-vue-js-c0efd4c0139e ||
- 
+| Your Own Personal CRM with Vue.js, Node.js, Express, and MongoDB | https://www.codementor.io/projects/web/your-own-personal-crm-atx32kpquc ||
+
 
 ### React
 
@@ -135,6 +141,7 @@ Thank you.
 | meme-maker with React |https://medium.com/free-code-camp/react-for-beginners-building-a-meme-maker-with-react-7164d3d3e55f||
 | construct a heat map in React |https://www.freecodecamp.org/news/a-heat-map-implementation-in-typescript/||
 | Countdown component using React & MomentJS |https://www.freecodecamp.org/news/how-to-create-a-countdown-component-using-react-momentjs-4717edc4ac3/||
+| Invoicing and payment reminder mobile app using React, Node.js, Express, and MongoDB | https://www.codementor.io/projects/mobile/invoicing-and-payment-reminder-mobile-app-atx32o85yj ||
 
 
 ### Jquery
@@ -143,12 +150,12 @@ Thank you.
 | Grid Accordion with jQuery |https://css-tricks.com/grid-accordion-with-jquery/ ||
 
 
-### Contribution 
+### Contribution
 Before making a pull request, please consider the following:
 * The tutorial you want to add should not already exist
 * The tutorial should be correctly placed under the appropriate technology
-* If the tutorial isn't free, add the price. Even medium.com premium content. 
-* No URL shorteners. 
+* If the tutorial isn't free, add the price. Even medium.com premium content.
+* No URL shorteners.
 
 #### Todo
 - [ ] Add more technologies
